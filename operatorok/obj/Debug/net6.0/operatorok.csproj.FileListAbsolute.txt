@@ -1,0 +1,15 @@
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\bin\Debug\net6.0\operatorok.exe
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\bin\Debug\net6.0\operatorok.deps.json
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\bin\Debug\net6.0\operatorok.runtimeconfig.json
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\bin\Debug\net6.0\operatorok.dll
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\bin\Debug\net6.0\operatorok.pdb
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.csproj.AssemblyReference.cache
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.GeneratedMSBuildEditorConfig.editorconfig
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.AssemblyInfoInputs.cache
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.AssemblyInfo.cs
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.csproj.CoreCompileInputs.cache
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.dll
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\refint\operatorok.dll
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.pdb
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\operatorok.genruntimeconfig.cache
+F:\Us\Csanád\prog\linqTeszt\operatorok\operatorok\obj\Debug\net6.0\ref\operatorok.dll
